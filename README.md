@@ -6,7 +6,7 @@
 
 •	Utilized JFrame and JPanel to create an aesthetically pleasing game with an intuitive UI
 
-###Keys
+### Keys
 left arrow key: move left
 right arrow key: move right
 up arrow key: rotate CW
