@@ -1,5 +1,7 @@
 # Tetris
 
+![Tetris Gameplay](https://github.com/DKimGitHub/Tetris/blob/master/gameplay.png)
+
 •	Built a fully functioning version of Tetris including next-piece, hold-piece, and difficulty features
 
 •	Incorporated accurate tetronimo behaviour when it spawns, rotates, and wall-kicks
